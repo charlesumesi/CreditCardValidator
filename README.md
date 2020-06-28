@@ -12,4 +12,5 @@ def credit_card_validator():
     
     # Implementing formula
     l = [k for k in enter_number]
+    ...
 </pre></code>
