@@ -1,7 +1,6 @@
 # CreditCardValidator
 A short code for validating a credit card number
-
-<pre><code class="python">
+```python
 def credit_card_validator():
     
     '''Based on the Luhn formula'''
@@ -13,4 +12,4 @@ def credit_card_validator():
     # Implementing formula
     l = [k for k in enter_number]
     ...
-</pre></code>
+```
