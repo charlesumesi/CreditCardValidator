@@ -1,5 +1,5 @@
 # CreditCardValidator
-A short code for validating a credit card number
+A short Python code for validating a credit card number
 ```python
 def credit_card_validator():
     
