@@ -1,3 +1,5 @@
+'''A program that determines whether a number is a valid credit card number'''
+
 # -*- coding: utf-8 -*-
 """
 Created on 16 Feb 2020; edited on 22 Jun 2020
